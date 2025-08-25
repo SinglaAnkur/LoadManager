@@ -45,6 +45,7 @@ Backup folder:
   - `time` (string)
 
 Example input (each line is one request):
+
 {"id":"1","customer_id":"C1","load_amount":"\$100","time":"2000-01-01T00:00:00Z"}
 {"id":"2","customer_id":"C2","load_amount":"\$100","time":"2000-01-01T00:00:00Z"}
 
